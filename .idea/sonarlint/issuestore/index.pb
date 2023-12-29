@@ -51,3 +51,6 @@ O
 proyecto_taj/contracts/views.py,8\5\85e01b9c0becbf3fd6721d26c246ac5e5139ad7a
 M
 proyecto_taj/requirements.txt,2\8\28b9a3ac6c4e4aa31d684630cd87db73712d0662
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

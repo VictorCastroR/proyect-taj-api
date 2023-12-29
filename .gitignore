@@ -1,0 +1,32 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Entorno virtual de Anaconda
+env/
+venv/
+.venv/
+
+# Archivos de configuración de Anaconda
+.conda/
+.anaconda/
+conda_env/
+
+# Archivos locales
+.DS_Store
+.env
+
+# Archivo de registro de Python
+*.log
+
+# Carpeta de construcción
+build/
+
+# Carpeta de distribución
+dist/
+
+# Carpeta de archivos temporales
+*.egg-info/
+
+# Archivos creados por pycharm
+.idea/
